@@ -201,11 +201,6 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/messenger.png"
         },
         {
-            "name": "metin.ico",
-            "path": "image/metin.ico",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/metin.ico"
-        },
-        {
             "name": "ninja_erkek.png",
             "path": "image/ninja_erkek.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/ninja_erkek.png"
@@ -461,11 +456,6 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/kd/zirh.png"
         },
         {
-            "name": "desktop.ini",
-            "path": "image/metin/desktop.ini",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/metin/desktop.ini"
-        },
-        {
             "name": "efsanevi_metini.png",
             "path": "image/metin/efsanevi_metini.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/metin/efsanevi_metini.png"
@@ -506,4 +496,5 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/metin/yuzde_yuz_metin_of_exile.png"
         }
     ]
+
 }
