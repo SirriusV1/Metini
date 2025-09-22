@@ -106,11 +106,6 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/gonder_msg.png"
         },
         {
-            "name": "gorev_mevcut_degil.png",
-            "path": "image/gorev_mevcut_degil.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/gorev_mevcut_degil.png"
-        },
-        {
             "name": "gorev_tahtasi.png",
             "path": "image/gorev_tahtasi.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/gorev_tahtasi.png"
@@ -119,6 +114,11 @@
             "name": "gorev_tamamlandi.png",
             "path": "image/gorev_tamamlandi.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/gorev_tamamlandi.png"
+        },
+        {
+            "name": "gunluk_haftalik_gorevler.png",
+            "path": "image/gunluk_haftalik_gorevler.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/gunluk_haftalik_gorevler.png"
         },
         {
             "name": "harita_sec.png",
@@ -134,11 +134,6 @@
             "name": "hazine.png",
             "path": "image/hazine.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/hazine.png"
-        },
-        {
-            "name": "hazine1.png",
-            "path": "image/hazine1.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/hazine1.png"
         },
         {
             "name": "isinlanma.png",
@@ -164,11 +159,6 @@
             "name": "karakter_ekranii.png",
             "path": "image/karakter_ekranii.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakter_ekranii.png"
-        },
-        {
-            "name": "karbon.png",
-            "path": "image/karbon.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karbon.png"
         },
         {
             "name": "login.png",
