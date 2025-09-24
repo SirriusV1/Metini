@@ -11,19 +11,9 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/bakim.png"
         },
         {
-            "name": "beginner_event.png",
-            "path": "image/beginner_event.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/beginner_event.png"
-        },
-        {
             "name": "bilgi.png",
             "path": "image/bilgi.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/bilgi.png"
-        },
-        {
-            "name": "bonus_icin_oyla.png",
-            "path": "image/bonus_icin_oyla.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/bonus_icin_oyla.png"
         },
         {
             "name": "ch1.png",
@@ -66,24 +56,9 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/ch8.png"
         },
         {
-            "name": "consumables.png",
-            "path": "image/consumables.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/consumables.png"
-        },
-        {
             "name": "copleri_sec.png",
             "path": "image/copleri_sec.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/copleri_sec.png"
-        },
-        {
-            "name": "envanter.png",
-            "path": "image/envanter.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/envanter.png"
-        },
-        {
-            "name": "etkinlik_takivimi.png",
-            "path": "image/etkinlik_takivimi.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/etkinlik_takivimi.png"
         },
         {
             "name": "evet.png",
@@ -101,16 +76,6 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/gonder.png"
         },
         {
-            "name": "gonder_msg.png",
-            "path": "image/gonder_msg.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/gonder_msg.png"
-        },
-        {
-            "name": "gorev_tahtasi.png",
-            "path": "image/gorev_tahtasi.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/gorev_tahtasi.png"
-        },
-        {
             "name": "gorev_tamamlandi.png",
             "path": "image/gorev_tamamlandi.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/gorev_tamamlandi.png"
@@ -119,11 +84,6 @@
             "name": "gunluk_haftalik_gorevler.png",
             "path": "image/gunluk_haftalik_gorevler.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/gunluk_haftalik_gorevler.png"
-        },
-        {
-            "name": "harita_sec.png",
-            "path": "image/harita_sec.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/harita_sec.png"
         },
         {
             "name": "hayir.png",
@@ -141,16 +101,6 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/isinlanma.png"
         },
         {
-            "name": "kanal_degistir.png",
-            "path": "image/kanal_degistir.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/kanal_degistir.png"
-        },
-        {
-            "name": "karakter.png",
-            "path": "image/karakter.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakter.png"
-        },
-        {
             "name": "karakter_ekrani.png",
             "path": "image/karakter_ekrani.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakter_ekrani.png"
@@ -164,16 +114,6 @@
             "name": "login.png",
             "path": "image/login.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/login.png"
-        },
-        {
-            "name": "lycan.png",
-            "path": "image/lycan.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/lycan.png"
-        },
-        {
-            "name": "magaza.png",
-            "path": "image/magaza.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/magaza.png"
         },
         {
             "name": "maintenance.png",
@@ -196,16 +136,6 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/messenger.png"
         },
         {
-            "name": "ninja_erkek.png",
-            "path": "image/ninja_erkek.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/ninja_erkek.png"
-        },
-        {
-            "name": "ninja_kadin.png",
-            "path": "image/ninja_kadin.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/ninja_kadin.png"
-        },
-        {
             "name": "odullendirildin.png",
             "path": "image/odullendirildin.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/odullendirildin.png"
@@ -214,16 +144,6 @@
             "name": "oynayabilirsiniz.png",
             "path": "image/oynayabilirsiniz.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/oynayabilirsiniz.png"
-        },
-        {
-            "name": "oyun_ici_nesne_market.png",
-            "path": "image/oyun_ici_nesne_market.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/oyun_ici_nesne_market.png"
-        },
-        {
-            "name": "oyun_sonu.png",
-            "path": "image/oyun_sonu.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/oyun_sonu.png"
         },
         {
             "name": "parsomen.png",
@@ -236,54 +156,14 @@
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/parsomen1.png"
         },
         {
-            "name": "reaksiyon_oyunu.png",
-            "path": "image/reaksiyon_oyunu.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/reaksiyon_oyunu.png"
-        },
-        {
             "name": "reddet.png",
             "path": "image/reddet.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/reddet.png"
         },
         {
-            "name": "saman_erkek.png",
-            "path": "image/saman_erkek.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/saman_erkek.png"
-        },
-        {
-            "name": "saman_kadin.png",
-            "path": "image/saman_kadin.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/saman_kadin.png"
-        },
-        {
             "name": "sat.png",
             "path": "image/sat.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/sat.png"
-        },
-        {
-            "name": "savasci_erkek.png",
-            "path": "image/savasci_erkek.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/savasci_erkek.png"
-        },
-        {
-            "name": "savasci_kadin.png",
-            "path": "image/savasci_kadin.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/savasci_kadin.png"
-        },
-        {
-            "name": "savas_pasosu.png",
-            "path": "image/savas_pasosu.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/savas_pasosu.png"
-        },
-        {
-            "name": "sura_erkek.png",
-            "path": "image/sura_erkek.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/sura_erkek.png"
-        },
-        {
-            "name": "sura_kadin.png",
-            "path": "image/sura_kadin.png",
-            "url": "https://github.com/SirriusV1/Metini/raw/main/image/sura_kadin.png"
         },
         {
             "name": "update.png",
@@ -359,6 +239,71 @@
             "name": "yeterli_esya.png",
             "path": "image/biologist/yeterli_esya.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/biologist/yeterli_esya.png"
+        },
+        {
+            "name": "baslangic_etkinligi.png",
+            "path": "image/event/baslangic_etkinligi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/event/baslangic_etkinligi.png"
+        },
+        {
+            "name": "beginner_event.png",
+            "path": "image/event/beginner_event.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/event/beginner_event.png"
+        },
+        {
+            "name": "oyuncu_rehberi.png",
+            "path": "image/event/oyuncu_rehberi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/event/oyuncu_rehberi.png"
+        },
+        {
+            "name": "reaksiyon_oyunu.png",
+            "path": "image/event/reaksiyon_oyunu.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/event/reaksiyon_oyunu.png"
+        },
+        {
+            "name": "lycan.png",
+            "path": "image/karakterler/lycan.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/lycan.png"
+        },
+        {
+            "name": "ninja_erkek.png",
+            "path": "image/karakterler/ninja_erkek.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/ninja_erkek.png"
+        },
+        {
+            "name": "ninja_kadin.png",
+            "path": "image/karakterler/ninja_kadin.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/ninja_kadin.png"
+        },
+        {
+            "name": "saman_erkek.png",
+            "path": "image/karakterler/saman_erkek.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/saman_erkek.png"
+        },
+        {
+            "name": "saman_kadin.png",
+            "path": "image/karakterler/saman_kadin.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/saman_kadin.png"
+        },
+        {
+            "name": "savasci_erkek.png",
+            "path": "image/karakterler/savasci_erkek.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/savasci_erkek.png"
+        },
+        {
+            "name": "savasci_kadin.png",
+            "path": "image/karakterler/savasci_kadin.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/savasci_kadin.png"
+        },
+        {
+            "name": "sura_erkek.png",
+            "path": "image/karakterler/sura_erkek.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/sura_erkek.png"
+        },
+        {
+            "name": "sura_kadin.png",
+            "path": "image/karakterler/sura_kadin.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/karakterler/sura_kadin.png"
         },
         {
             "name": "binek.png",
@@ -494,6 +439,141 @@
             "name": "yuzde_yuz_metin_of_exile.png",
             "path": "image/metin/yuzde_yuz_metin_of_exile.png",
             "url": "https://github.com/SirriusV1/Metini/raw/main/image/metin/yuzde_yuz_metin_of_exile.png"
+        },
+        {
+            "name": "avcilik_gorevleri.png",
+            "path": "image/pencereler/avcilik_gorevleri.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/avcilik_gorevleri.png"
+        },
+        {
+            "name": "beceri.png",
+            "path": "image/pencereler/beceri.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/beceri.png"
+        },
+        {
+            "name": "bonus_icin_oyla.png",
+            "path": "image/pencereler/bonus_icin_oyla.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/bonus_icin_oyla.png"
+        },
+        {
+            "name": "consumables.png",
+            "path": "image/pencereler/consumables.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/consumables.png"
+        },
+        {
+            "name": "duygu.png",
+            "path": "image/pencereler/duygu.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/duygu.png"
+        },
+        {
+            "name": "efsun_botu.png",
+            "path": "image/pencereler/efsun_botu.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/efsun_botu.png"
+        },
+        {
+            "name": "envanter.png",
+            "path": "image/pencereler/envanter.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/envanter.png"
+        },
+        {
+            "name": "en_iyi_listesi.png",
+            "path": "image/pencereler/en_iyi_listesi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/en_iyi_listesi.png"
+        },
+        {
+            "name": "etkinlik_takivimi.png",
+            "path": "image/pencereler/etkinlik_takivimi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/etkinlik_takivimi.png"
+        },
+        {
+            "name": "gonder_msg.png",
+            "path": "image/pencereler/gonder_msg.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/gonder_msg.png"
+        },
+        {
+            "name": "gorevler.png",
+            "path": "image/pencereler/gorevler.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/gorevler.png"
+        },
+        {
+            "name": "gorev_tahtasi.png",
+            "path": "image/pencereler/gorev_tahtasi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/gorev_tahtasi.png"
+        },
+        {
+            "name": "harita_sec.png",
+            "path": "image/pencereler/harita_sec.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/harita_sec.png"
+        },
+        {
+            "name": "hatirlatici.png",
+            "path": "image/pencereler/hatirlatici.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/hatirlatici.png"
+        },
+        {
+            "name": "Isinlanma.png",
+            "path": "image/pencereler/Isinlanma.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/Isinlanma.png"
+        },
+        {
+            "name": "kanal_degistir.png",
+            "path": "image/pencereler/kanal_degistir.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/kanal_degistir.png"
+        },
+        {
+            "name": "karakter.png",
+            "path": "image/pencereler/karakter.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/karakter.png"
+        },
+        {
+            "name": "kostum_dolabi.png",
+            "path": "image/pencereler/kostum_dolabi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/kostum_dolabi.png"
+        },
+        {
+            "name": "macera_kitabi.png",
+            "path": "image/pencereler/macera_kitabi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/macera_kitabi.png"
+        },
+        {
+            "name": "magaza.png",
+            "path": "image/pencereler/magaza.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/magaza.png"
+        },
+        {
+            "name": "meydan_okuma.png",
+            "path": "image/pencereler/meydan_okuma.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/meydan_okuma.png"
+        },
+        {
+            "name": "oto_av.png",
+            "path": "image/pencereler/oto_av.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/oto_av.png"
+        },
+        {
+            "name": "oyun_ici_nesne_market.png",
+            "path": "image/pencereler/oyun_ici_nesne_market.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/oyun_ici_nesne_market.png"
+        },
+        {
+            "name": "oyun_sonu.png",
+            "path": "image/pencereler/oyun_sonu.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/oyun_sonu.png"
+        },
+        {
+            "name": "rahatlik.png",
+            "path": "image/pencereler/rahatlik.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/rahatlik.png"
+        },
+        {
+            "name": "savas_pasosu.png",
+            "path": "image/pencereler/savas_pasosu.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/savas_pasosu.png"
+        },
+        {
+            "name": "vikipedi.png",
+            "path": "image/pencereler/vikipedi.png",
+            "url": "https://github.com/SirriusV1/Metini/raw/main/image/pencereler/vikipedi.png"
         }
     ]
 }
